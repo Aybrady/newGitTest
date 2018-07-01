@@ -16,11 +16,13 @@ Unordered lists use *'s as a prefix like this
 * Item 3
     * Item 3a
     * Item 3b  
+    * Item 3c
 
 Ordered lists use a 1.
 1. Item 1
 1. Item 2
 1. Item 3
+    1. Item 3a (doesn't work as expected)  
 
 There is also easy syntax for images ![GitHub](https://github.com/)
 
